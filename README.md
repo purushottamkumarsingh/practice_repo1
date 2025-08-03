@@ -1,4 +1,4 @@
 # practice_repo1
-#first import the data 
-#create the dataframe for the efficent preprocessing
-#import all the neccasry  packages
+1.#first import the data 
+2.#create the dataframe for the efficent preprocessing
+3.#import all the neccasry  packages
